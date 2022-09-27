@@ -1,4 +1,4 @@
-iresources:
+resources:
 - argocd/ace/cicd.yaml
 - argocd/ace/dev.yaml
 #- argocd/ace/stage.yaml
